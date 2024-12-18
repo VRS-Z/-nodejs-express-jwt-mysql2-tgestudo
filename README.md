@@ -25,7 +25,7 @@ This project focuses on creating a simple API for user authentication and retrie
 
 ## Project Structure
 ```
-project-root/
+user-auth-api/
 |-- config/             # Database configuration
 |-- controllers/        # Handles API logic (Login, Data Retrieval)
 |-- models/             # MySQL models for user data
